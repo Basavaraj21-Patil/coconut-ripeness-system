@@ -17,7 +17,7 @@ By combining both modalities, the system achieves improved robustness compared t
 ## Methodology
 
 1. Record tapping sound using microphone.
-2. Capture coconut image using ESP32-CAM.
+2. Capture coconut image using ESP32-CAM/ mobile phone.
 3. Extract audio features:
    - MFCC
    - Spectral centroid
